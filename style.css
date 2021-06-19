@@ -1,0 +1,53 @@
+.jumbotron{
+    background-image: url(7\ DAYS\ IN\ NEW\ YORK\ CITY\ -\ YOUR\ ULTIMATE\ GUIDE_\ DAY\ 1\ -\ 3.jpg);
+    background-size: cover;
+    height: 750px;
+    text-align:center;
+    margin-bottom: -100px;
+    margin-top: -30px;
+}
+
+.jumbotron .display-4 {
+    margin-top: 120px;
+}
+
+.jumbotron p{
+    font-size: 20px;
+}
+
+.jumbotron .btn{
+    border-color: black;
+    border-width: 3px;
+    background-color: rgba(224, 207, 215, 0.767);
+    color:black;
+}
+
+.navbar{
+    background-color:rgba(255, 255, 255, 0.767) ;
+}
+
+.row .col{
+    margin-top: 100px;
+    border-style:none;
+    border-width:thin;
+    border-color: black;
+}
+
+body{
+    background-image: url(11.jpg);
+    background-size:contain;
+}
+
+
+.table .th .td {
+    border-color: rgb(0, 0, 0);
+    border: 3px;
+    border-collapse:collapse;
+    text-align: center;
+    padding: 8px;
+    border-color: black;
+    text-decoration-color: black;
+}
+
+.p
+{background-color: white;}
